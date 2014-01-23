@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://apc.github.io/phil546/sitemap.xml 
