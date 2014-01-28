@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: assignments | Phil 546]]></title>
+  <link href="http://apc.github.io/phil546/blog/categories/assignments/atom.xml" rel="self"/>
+  <link href="http://apc.github.io/phil546/"/>
+  <updated>2014-01-28T14:37:10-05:00</updated>
+  <id>http://apc.github.io/phil546/</id>
+  <author>
+    <name><![CDATA[Alejandro Pérez Carballo]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Clarification]]></title>
+    <link href="http://apc.github.io/phil546/blog/2014/01/28/clarification/"/>
+    <updated>2014-01-28T14:27:11-05:00</updated>
+    <id>http://apc.github.io/phil546/blog/2014/01/28/clarification</id>
+    <content type="html"><![CDATA[<p>Reponse pieces need not address the question, if any, I post on Moodle. Think of those questions merely as suggestions for what to focus on. Remember, the point of these response pieces is to help you organize your thoughts on the readings and to help me notice any common misunderstandings or any issues worth going over in detail during our meeting.</p>
+]]></content>
+  </entry>
+  
+</feed>
