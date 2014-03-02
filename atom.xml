@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 546]]></title>
   <link href="http://apc.github.io/phil546/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil546/"/>
-  <updated>2014-02-20T21:25:18-05:00</updated>
+  <updated>2014-03-02T12:20:27-05:00</updated>
   <id>http://apc.github.io/phil546/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Next Meeting]]></title>
+    <link href="http://apc.github.io/phil546/blog/2014/03/02/next-meeting/"/>
+    <updated>2014-03-02T12:19:34-05:00</updated>
+    <id>http://apc.github.io/phil546/blog/2014/03/02/next-meeting</id>
+    <content type="html"><![CDATA[<p>There is no reading response due this week. As for what to read, make sure to re-read Grice. I will post some optional additional readings later today.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[This Week]]></title>
