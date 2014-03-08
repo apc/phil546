@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 546]]></title>
   <link href="http://apc.github.io/phil546/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil546/"/>
-  <updated>2014-03-02T12:20:27-05:00</updated>
+  <updated>2014-03-07T22:21:44-05:00</updated>
   <id>http://apc.github.io/phil546/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Assertion]]></title>
+    <link href="http://apc.github.io/phil546/blog/2014/03/07/assertion/"/>
+    <updated>2014-03-07T22:20:24-05:00</updated>
+    <id>http://apc.github.io/phil546/blog/2014/03/07/assertion</id>
+    <content type="html"><![CDATA[<p>Next week, we&rsquo;ll be discussing Stalnaker&rsquo;s paper &ldquo;Assertion&rdquo;. I&rsquo;ve added the pdf to our Moodle site and updated the <a href="http://perezcarballo.org/phil546/readings">readings</a> page accordingly.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Next Meeting]]></title>
