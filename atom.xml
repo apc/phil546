@@ -4,7 +4,7 @@
   <title><![CDATA[Phil 546]]></title>
   <link href="http://apc.github.io/phil546/atom.xml" rel="self"/>
   <link href="http://apc.github.io/phil546/"/>
-  <updated>2014-03-07T22:21:44-05:00</updated>
+  <updated>2014-03-22T23:44:23-04:00</updated>
   <id>http://apc.github.io/phil546/</id>
   <author>
     <name><![CDATA[Alejandro Pérez Carballo]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Readings for Coming Week]]></title>
+    <link href="http://apc.github.io/phil546/blog/2014/03/22/readings-for-coming-week/"/>
+    <updated>2014-03-22T23:41:37-04:00</updated>
+    <id>http://apc.github.io/phil546/blog/2014/03/22/readings-for-coming-week</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve updated the <a href="http://perezcarballo.org/phil546/readings/">reading schedule</a> to include the readings for this coming week. Let me know if you have any difficulties accessing any of the two papers.</p>
+
+<p>Also, you may remember from the syllabus that you are supposed to turn in three short papers before the end of the semester (unless you want to get seminar credit, in which case you will need to write a short paper and a term paper). Do keep that in mind as the semester comes to an end!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Assertion]]></title>
